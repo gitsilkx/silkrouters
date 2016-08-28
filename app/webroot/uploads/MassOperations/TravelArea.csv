@@ -1,0 +1,57 @@
+id,area_name,suburb_id,suburb_name,city_id,city_name,country_id,country_name,continent_id,continent_name,area_description,area_active,top_area,area_status,wtb_status,is_update,province_id,province_name,approved_by,approved_date,created_by,created
+NULL,Cairo,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,Cairo,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Abbassia,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,Abbassia,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Ain Shams,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,Ain Shams,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Al-Matariyyah,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,Al-Matariyyah,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Azbakeya,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,Azbakeya,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Bab al-Louq,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,Bab al-Louq,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Bulaq,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,Bulaq,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Coptic Cairo,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,Coptic Cairo,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Daher,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,Daher,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Downtown Cairo,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,Downtown Cairo,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,El-Manial,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,El-Manial,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,El-Marg,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,El-Marg,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,El-Quba,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,El-Quba,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,El-Sakakini,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,El-Sakakini,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,El-Tagamu El Khames,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,El-Tagamu El Khames,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Elsahel,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,Elsahel,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Ezbet el-Haggana,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,Ezbet el-Haggana,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Ezbet El-Nakhl,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,Ezbet El-Nakhl,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Faggala,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,Faggala,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Fustat,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,Fustat,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Garden City,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,Garden City,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Gezira Island,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,Gezira Island,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Heliopolis,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,Heliopolis,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Islamic Cairo,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,Islamic Cairo,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Maadi,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,Maadi,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Mokattam,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,Mokattam,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Old Cairo,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,Old Cairo,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Rhoda Island,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,Rhoda Island,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Shubra,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,Shubra,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Shubra El-Kheima,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,Shubra El-Kheima,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Wagh El-Birket,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,Wagh El-Birket,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Zamalek,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,Zamalek,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Zeitoun,724,Cairo,2495,Cairo,66,Egypt,1,Middle East,Zeitoun,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Greater Cairo,725,Greater Cairo,2495,Cairo,66,Egypt,1,Middle East,Greater Cairo,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,15th of May City,725,Greater Cairo,2495,Cairo,66,Egypt,1,Middle East,15th of May City,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,6th of October City,725,Greater Cairo,2495,Cairo,66,Egypt,1,Middle East,6th of October City,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Al Rehab City,725,Greater Cairo,2495,Cairo,66,Egypt,1,Middle East,Al Rehab City,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Al Shorouk City,725,Greater Cairo,2495,Cairo,66,Egypt,1,Middle East,Al Shorouk City,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Al-Matariyyah,725,Greater Cairo,2495,Cairo,66,Egypt,1,Middle East,Al-Matariyyah,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Badr City,725,Greater Cairo,2495,Cairo,66,Egypt,1,Middle East,Badr City,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Dokki,725,Greater Cairo,2495,Cairo,66,Egypt,1,Middle East,Dokki,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,El-Marg,725,Greater Cairo,2495,Cairo,66,Egypt,1,Middle East,El-Marg,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,El-Tagamu El Khames,725,Greater Cairo,2495,Cairo,66,Egypt,1,Middle East,El-Tagamu El Khames,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Helwan,725,Greater Cairo,2495,Cairo,66,Egypt,1,Middle East,Helwan,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Kerdasa,725,Greater Cairo,2495,Cairo,66,Egypt,1,Middle East,Kerdasa,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Madinaty,725,Greater Cairo,2495,Cairo,66,Egypt,1,Middle East,Madinaty,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Manshiyat Naser,725,Greater Cairo,2495,Cairo,66,Egypt,1,Middle East,Manshiyat Naser,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Mohandessin,725,Greater Cairo,2495,Cairo,66,Egypt,1,Middle East,Mohandessin,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Nasr City,725,Greater Cairo,2495,Cairo,66,Egypt,1,Middle East,Nasr City,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,New Cairo,725,Greater Cairo,2495,Cairo,66,Egypt,1,Middle East,New Cairo,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,New Heliopolis City,725,Greater Cairo,2495,Cairo,66,Egypt,1,Middle East,New Heliopolis City,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Obour City,725,Greater Cairo,2495,Cairo,66,Egypt,1,Middle East,Obour City,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Old Cairo,725,Greater Cairo,2495,Cairo,66,Egypt,1,Middle East,Old Cairo,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Rod El Farag,725,Greater Cairo,2495,Cairo,66,Egypt,1,Middle East,Rod El Farag,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Sheikh Zayed City,725,Greater Cairo,2495,Cairo,66,Egypt,1,Middle East,Sheikh Zayed City,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Shubra El-Kheima,725,Greater Cairo,2495,Cairo,66,Egypt,1,Middle East,Shubra El-Kheima,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00

@@ -1,0 +1,3 @@
+id,name,city_id,city_name,country_id,country_name,continent_id,continent_name,description,active,top_neighborhood,status,wtb_status,is_update,province_id,province_name,approved_by,approved_date,created_by,created
+NULL,Cairo,2495,Cairo,66,Egypt,1,Middle East,Cairo,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
+NULL,Greater Cairo,2495,Cairo,66,Egypt,1,Middle East,Greater Cairo,TRUE,FALSE,1,1,Y,459,Cairo,0,0000-00-00 00:00:00,169,0000-00-00 00:00:00
